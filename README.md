@@ -5,4 +5,4 @@ AUTHOR: Maxim Beauchemin
 
 DATE: September 19, 2025
 
-RUNNING THE PROGRAM: Download the UltimateTicTacToe.jar file from https://github.com/maximbeauchemin07-source/UltimateTicTacToe/releases/tag/1.0/download/UltimateTicTacToe.jar and run the file. The images will not appear unless the .jar is in the same folder as the assets folder.
+RUNNING THE PROGRAM: Download the UltimateTicTacToe.jar file from https://github.com/maximbeauchemin07-source/Ultimate-Tic-Tac-Toe/releases/tag/1.0/download/UltimateTicTacToe.jar and run the file. The images will not appear unless the .jar is in the same folder as the assets folder.
