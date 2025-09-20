@@ -38,7 +38,7 @@ class UltimateTicTacToe extends JPanel implements ActionListener, MouseListener{
     
     private Timer time = new Timer(100, this); // Timer object to repaint every 100 milliseconds
     private Color back = new Color(210, 191, 224); // Creates a color object with specific RGB values to make setting the background easier
-    private ImageIcon logo = new ImageIcon("Logo.png"); // ImageIcon object logo which is the logo for our game exported as png placed in the same java file as our class
+    private ImageIcon logo = new ImageIcon("assets/Logo.png"); // ImageIcon object logo which is the logo for our game exported as png placed in the same java file as our class
     
     // Default constructor to initialise variables
     public UltimateTicTacToe() {
